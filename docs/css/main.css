@@ -15,6 +15,7 @@ header h1{
 		text-align:center;
 	}
 nav ul{
+	list-style:none;
 	display:flex;
 	flex-direction:low;
 	justify-content:space-around;
@@ -23,122 +24,9 @@ nav ul{
 	}
 nav ul li a{
 	text-decoration:none;
+	list-style:none;
 	}
 *{box-sizing:border-box;}
-#boxCP-1{
-		width:100px;
-		height:100px;
-		background:#c19cff;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxCP-2{
-		width:100px;
-		height:100px;
-		background:#8fefc9;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxCP-3{
-		width:100px;
-		height:100px;
-		background:#c8c8c8;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxCP-4{
-		width:100px;
-		height:100px;
-		background:#87aaff;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxM-1{
-		width:100px;
-		height:100px;
-		background:#fff;
-		border:1px solid #ccc;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxM-2{
-		width:100px;
-		height:100px;
-		background:#0026ff;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxM-3{
-		width:100px;
-		height:100px;
-		background:#9ae6ff;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxM-4{
-		width:100px;
-		height:100px;
-		background:#ffd900;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxN-1{
-		width:100px;
-		height:100px;
-		background:#552716;
-		border:1px solid #ccc;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxN-2{
-		width:100px;
-		height:100px;
-		background:#83be91;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxN-3{
-		width:100px;
-		height:100px;
-		background:#e5f0e8;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-#boxN-4{
-		width:100px;
-		height:100px;
-		background:#e5ffc5;
-		border-radius:50%;
-		text-align:center;
-		line-height:100px;
-		margin:10px auto;
-		}
-.cl_paCool{color:#654032;}
-.cl_marine{color:#000;}
-.cl_pastel4{color:#87aaff;}
-.cl_fff{color:#fff;}
 #p1{
 	text-align:center;
 	margin:0 auto;

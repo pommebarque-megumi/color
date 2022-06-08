@@ -22,6 +22,7 @@ nav ul li a{
 *{box-sizing:border-box;}
 #colorCircle{
 		display:flex;
+		justify-content:center;
 	}
 h2{
 		font-size:3.5vw;
